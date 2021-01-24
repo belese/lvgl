@@ -9,7 +9,7 @@
 	},
 	"build": {
 		"includeDir": ".",
-		"libArchive": false,
+		"libArchive": false
 	},
 	"license": "MIT",
 	"homepage": "https://lvgl.io",
